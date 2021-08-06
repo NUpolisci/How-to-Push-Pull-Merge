@@ -55,3 +55,18 @@ To push, you press the green up arrow (circled in red). Note, RStudio will tell 
 
 # Pulling 
 Pulling is especially important when you are working with a collaborator on a shared repository, or if you make changes on Github's website, but then continue to work on a platform like RStudio. Whereas pushing ensures the materials you have on your Github repository are up to date with the version of materials on your machine, pushing ensures the version of materials you have on your machine are up to date with with the materials you have on your Github. 
+
+If you are working on a project with collaborators in a shared repository, it is always a good idea to pull before making any changes or committing any changes. 
+
+There are two ways to pull: 
+
+## 1) Pull via Terminal 
+Go to your terminal and type: 
+`git pull` 
+
+## 2) Pull via RStudio
+
+Back in the upper right-hand pane, click on the blue down arrow (circled in red) to pull. 
+
+![pull](Figures/pull.png)
+
