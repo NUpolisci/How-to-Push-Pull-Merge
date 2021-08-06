@@ -125,7 +125,7 @@ Then, click on the green button 'New pull request'.
 
 From there, make sure the pull request is going in the right direction, from your forked repo to the Main. 
 
-![creating pull request](Figures/creating pull request.png) 
+![creating pull request](Figures/creating pull request.png)
 
 And then press create pull request. You can also leave a message for the Main. 
 
