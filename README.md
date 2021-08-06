@@ -70,3 +70,55 @@ Back in the upper right-hand pane, click on the blue down arrow (circled in red)
 
 ![pull](Figures/pull.png)
 
+
+# Pull Requests
+
+Pull requests are used when you have a Main repository that you want to add changes to. Why might this happen? This could happen because you are working with a repository that already exists in the NUPoliSci Github account and you want that Main repository to reflect your changes. This is different than having your own repository that NUPoliSci forks over and features on their account (because in that case, your respository would be the Main). 
+
+## Forking 
+
+Forking is basically creating a copy of a repository for your own account. You can make any changes that you want to the repository, but it will not make any changes to the Main repository from which you forked. 
+
+In order to make changes to the Main, you will need to both fork the repository and initiate a pull request
+
+There are two ways to do a pull requestion 
+
+## 1) Pull Request via Terminal 
+
+Some terminology first [from here](https://stackoverflow.com/questions/9529497/what-is-origin-in-git)
+
+**Remote:** "Git has the concept of "remotes", which are simply URLs to other copies of your repository. When you clone another repository, Git automatically creates a remote named "origin" and points to it.""
+**Origin:** "`origin` is not the remote repository name. It is rather a local ***alias*** set as a key in place of the remote repository URL.
+
+It avoids the user having to type the whole remote URL when prompting a push.
+
+This name is set by default and for convention by Git when cloning from a remote for the first time."
+
+In order to get a working copy of the repository--one that can request changes to the Main repository--you must add a remote.
+
+`git remote add nameyouwant "https://main_repository_url..."`
+
+So you want to name your origin and you must link it to the Main repository's URL
+
+Then, you make sure you have an updated version of the repository in your remote: 
+`git pull nameyouwant main`
+
+In order to send over a push request, you basically commit and push as you normally would: 
+
+`git add "filename.filetype"`
+`git commit "message"`
+`git push`
+
+Then, the administrator of the NUPoliSci Github will review the request and choose to accept it or not. 
+
+## Pull Request via Interfaces
+
+First, go to the Github repository you are interested and working with and fork it over (circled in red).
+
+![fork](Figures/fork.png)
+
+Then, go to your forked repository. You should notice that the repository has the same name as the original, but now it's housed under your Github username instead of NUPoliSci (see purple underline). Then, click on 'pull request' (circled in red).
+
+![fork](Figures/pull request.png)
+
+Then, click on the green button 'New pull request'.
