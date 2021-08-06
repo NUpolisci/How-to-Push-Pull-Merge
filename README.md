@@ -52,3 +52,6 @@ And you're done!
 
 To push, you press the green up arrow (circled in red). Note, RStudio will tell you how many commits ahead of your Github repository you are. That is, how many bookmarked changes (commits) have you made that are different from the version on Github. Once you push, those differences go away.  
 ![push](Figures/push.png)
+
+# Pulling 
+Pulling is especially important when you are working with a collaborator on a shared repository, or if you make changes on Github's website, but then continue to work on a platform like RStudio. Whereas pushing ensures the materials you have on your Github repository are up to date with the version of materials on your machine, pushing ensures the version of materials you have on your machine are up to date with with the materials you have on your Github. 
