@@ -125,12 +125,4 @@ Then, click on the green button 'New pull request'.
 
 From there, make sure the pull request is going in the right direction, from your forked repo to the Main. 
 
-<<<<<<< HEAD
 ![creating pull request](Figures/creating pull request.png)
-=======
-![creating-pull-request](Figures/creating pull request.png) 
->>>>>>> 8b034c46f0b0783f5b8b8f87130ec6abc43a2d97
-
-And then press create pull request. You can also leave a message for the Main. 
-
-If the administrator accepts, you can pull the new changes via your preferred method. 
