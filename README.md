@@ -119,13 +119,17 @@ First, go to the Github repository you are interested and working with and fork 
 
 Then, go to your forked repository. You should notice that the repository has the same name as the original, but now it's housed under your Github username instead of NUPoliSci (see purple underline). Then, click on 'pull request' (circled in red).
 
-![pull request](Figures/pull request.png)
+![pullr](Figures/pull request.png)
 
 Then, click on the green button 'New pull request'.
 
 From there, make sure the pull request is going in the right direction, from your forked repo to the Main. 
 
+<<<<<<< HEAD
 ![creating pull request](Figures/creating pull request.png)
+=======
+![creating-pull-request](Figures/creating pull request.png) 
+>>>>>>> 8b034c46f0b0783f5b8b8f87130ec6abc43a2d97
 
 And then press create pull request. You can also leave a message for the Main. 
 
