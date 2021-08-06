@@ -119,7 +119,7 @@ First, go to the Github repository you are interested and working with and fork 
 
 Then, go to your forked repository. You should notice that the repository has the same name as the original, but now it's housed under your Github username instead of NUPoliSci (see purple underline). Then, click on 'pull request' (circled in red).
 
-![pullr](Figures/pull request.png)
+<img src = "https://github.com/NUpolisci/How-to-use-Github-repositories-for-workshops/blob/main/Figures/pull request.png" width ="800">
 
 Then, click on the green button 'New pull request'.
 
