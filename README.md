@@ -20,7 +20,7 @@ When you are committing, the key is to write meaningful messages to your future 
 
 On R studio, once you have connected your project to a github repository, you can commit via the RStudio platform. In the upper right-hand pane, you should see a tab that says 'Git'. When you click on it, you should see something like this: 
 
-![git](Figures/rstudio git.png)
+![git](Figures/rstudiogit.png)
 
 The icons in yellow with question marks mean that your local files have not yet been linked to the Github repository. Here, I have created an Rstudio project on my local computer that has not been linked to the Github repository. 
 
@@ -119,11 +119,11 @@ First, go to the Github repository you are interested and working with and fork 
 
 Then, go to your forked repository. You should notice that the repository has the same name as the original, but now it's housed under your Github username instead of NUPoliSci (see purple underline). Then, click on 'pull request' (circled in red).
 
-<img src = "https://github.com/NUpolisci/How-to-Commit-Push-Pull/blob/main/Figures/pull%20request.png" width ="800">
+![pullrequest](Figures/pullrequest.png)
 
 Then, click on the green button 'New pull request'.
 
 From there, make sure the pull request is going in the right direction, from your forked repo to the Main. 
 
 
-<img src = "https://github.com/NUpolisci/How-to-Commit-Push-Pull/edit/main/Figures/creating pull request.png" width ="800">
+![creatingpullrequest](Figures/creatingpullrequest.png)
