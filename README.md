@@ -70,3 +70,5 @@ Back in the upper right-hand pane, click on the blue down arrow (circled in red)
 
 ![pull](Figures/pull.png)
 
+Then, make sure that you are pull requesting from the direction you want. 
+
