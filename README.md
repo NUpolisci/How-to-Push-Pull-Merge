@@ -1,11 +1,11 @@
 # How-to-Pull-Push-Merge
-This repository is a simple guide for how to pull, push, and merge Github repositories when you are running a workshop with other people. If you are unfamiliar with Github, you should first check out this repositry on [how to use Github repositories for workshops](https://github.com/NUpolisci/How-to-use-Github-repositories-for-workshops).
+This repository is a simple guide for how to pull, push, and merge Github repositories when you are running a workshop with other people. If you are unfamiliar with Github, you should first check out this repository on [how to use Github repositories for workshops](https://github.com/NUpolisci/How-to-use-Github-repositories-for-workshops).
 
 # Git Basics 
 The best guide to use when working with Github and RStudio is [here](https://happygitwithr.com/new-github-first.html). This is just a supplementary guide to quickly compile some of the basic skills you may wish to use. 
 
 # Committing 
-Committing a code is basically bookmarking a change you have made. It does not yet add it to your repository (i.e. version control). You can committ a number of things at once, and you can commit numerous times before adding it to your repository.
+Committing a code is basically bookmarking a change you have made. It does not yet add it to your repository (i.e. version control). You can commit a number of things at once, and you can commit numerous times before adding it to your repository.
 
 There are two ways to commit: 
 
@@ -73,7 +73,7 @@ Back in the upper right-hand pane, click on the blue down arrow (circled in red)
 
 # Pull Requests
 
-Pull requests are used when you have a Main repository that you want to add changes to. Why might this happen? This could happen because you are working with a repository that already exists in the NUPoliSci Github account and you want that Main repository to reflect your changes. This is different than having your own repository that NUPoliSci forks over and features on their account (because in that case, your respository would be the Main). 
+Pull requests are used when you have a Main repository that you want to add changes to. Why might this happen? This could happen because you are working with a repository that already exists in the NUPoliSci Github account and you want that Main repository to reflect your changes. This is different than having your own repository that NUPoliSci forks over and features on their account (because in that case, your repository would be the Main). 
 
 ## Forking 
 
@@ -81,7 +81,7 @@ Forking is basically creating a copy of a repository for your own account. You c
 
 In order to make changes to the Main, you will need to both fork the repository and initiate a pull request
 
-There are two ways to do a pull requestion 
+There are two ways to do a pull request 
 
 ## 1) Pull Request via Terminal 
 
