@@ -1,4 +1,4 @@
-# How-to-Pull-Push-Merge
+# How-to-Push-Pull-Merge
 This repository is a simple guide for how to pull, push, and merge Github repositories when you are running a workshop with other people. If you are unfamiliar with Github, you should first check out this repository on [how to use Github repositories for workshops](https://github.com/NUpolisci/How-to-use-Github-repositories-for-workshops).
 
 # Git Basics 
